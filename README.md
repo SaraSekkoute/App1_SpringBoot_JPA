@@ -2,8 +2,8 @@
 <h5>With H2 DataBase</h5>
 
 <img src="Captures/img.png"/>
+<hr/>
 <h5>With MySQL DataBase</h5>
 <img src="Captures/img_1.png" />
-
-<h5>With MySQL DataBase</h5>
+<hr/>
 <img src="Captures/img_2.png" />
